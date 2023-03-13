@@ -1,6 +1,6 @@
 {
   "name": "@asi309kanban/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a common library for kanban board backend",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
